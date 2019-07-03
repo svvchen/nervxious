@@ -14,7 +14,7 @@ Course, only the guy with a 1.9 nodded along. He'd say the typical; a default ca
 
 Of course it would. No pre-2.0 NEMS could properly understand what I was saying. Anyone with one installed would stumble over my proposed assertions and register my presentation as..."good".
 
-Pre-2.0s were easy to impress. Problem was, there higher versions in the room.
+Pre-2.0s were easy to impress. Problem was, there were higher versions in the room.
 
 Two most senior contributors had state-of-the-art, high output machines installed into their nervous systems. They went to proper schools, paid, fought, and (though nobody acknowledges it) bribed for their NEMS. And it worked. Their brains were enhanced with the best intelligence anyone could want -- the types of setups that diplomats, nobel prize winners, and founders get.
 
