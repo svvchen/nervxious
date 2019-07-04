@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2-syndrome"
+title:  "2-Syndrome"
 date:   2019-07-02 20:26:58 -0700
 categories: Short
 ---
