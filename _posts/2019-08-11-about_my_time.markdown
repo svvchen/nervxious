@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  "About my time"
-date:   2019-07-02 20:26:58 -0700
+date:   2019-08-011 20:26:58 -0700
 categories: Short
 ---
 I'm young and dumb. Don't trust these opinions.
 --
+
 Working in Silicon Valley forces you to be a certain kind of person.
 
-An *Operator*, 
-*Badass*, 
-*Creator*, 
+An *Operator*,  
+*Badass*,  
+*Creator*,  
 *Ex-Founder*;
 
 You Have To *Get Shit Done*,  
@@ -23,6 +24,7 @@ I'm not complaining here (besides the Stratechery). It's a little annoying, but 
 When I first got out of school, every action I took, every thing I did, was to advance my career.
 
 I read books and articles because I needed to be smarter, exercised because I needed to perform at work.  
+
 I spent less time with my friends and family, and more time alone, in the office.  
 
 None of that came from within; it was all action informed by my performance at work. As a ~~fucking annoying~~ side effect, outside of the office, I felt incessant guilt from "not being productive" or "wasting my time".
