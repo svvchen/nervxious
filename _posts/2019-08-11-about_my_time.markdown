@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About my time"
-date:   2019-08-011 20:26:58 -0700
+date:   2019-08-11 20:26:58 -0700
 categories: Short
 ---
 I'm young and dumb. Don't trust these opinions.
@@ -9,12 +9,14 @@ I'm young and dumb. Don't trust these opinions.
 
 Working in Silicon Valley forces you to be a certain kind of person.
 
-An *Operator*,  
+An  
+*Operator*,  
 *Badass*,  
 *Creator*,  
 *Ex-Founder*;
 
-You Have To *Get Shit Done*,  
+You Have To  
+*Get Shit Done*,  
 *Be Data Driven*,  
 *Maintain An Amazing Twitter Account*,  
 *rEaD sTrAtEcHeRy.*   
