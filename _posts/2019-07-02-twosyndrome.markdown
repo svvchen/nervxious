@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2-Syndrome"
-date:   2019-07-02 20:26:58 -0700
+date:   2019-08-11 20:26:58 -0700
 categories: Short
 ---
 Quiet.
