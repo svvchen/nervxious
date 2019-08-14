@@ -26,8 +26,8 @@ The place was a mess.
 
 Papers were strewn across the lab floor. Most housed old calculations -- forgotten algorithms and derivations that Teller had played with as he started his dissertation.
 
-He quite liked seeing the papers covering the ground; they reminded him of the snow white landscapes of Harar.
+He quite liked seeing the papers covering the ground; they reminded him of the snow white landscapes outside.
 
-As he checked the night's machine output, he noticed it again. The tiny spike in data from measurements on Harar's Core.
+As he checked the nightly machine output, he noticed it again. The tiny spike in data from the measurements on Harar's Core.
 
 [To be continued]
