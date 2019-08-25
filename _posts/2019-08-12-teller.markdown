@@ -10,7 +10,7 @@ He was on his morning commute through Midtown, towards the lab where he spent mo
 
 Teller trudged through the snow, socks so saturated with icy water that the excess sloshed around in his boots. He had been on Harar for so long that he had forgotten real warmth. It was a bleak and frozen planet; the wasteland of the galaxy, created for those that seeked solice, and focus.
 
-Teller loved it.
+Teller hated it.
 
 He saw the gates of his lab slowly come into view. The building's steel facade was a dulled, slate grey, with no decoration besides a tiny set of etched murals on the west side of the gate. The murals contained scenes of past lab milestones -- tributes to the scholars and engineers who had built the lab.
 
@@ -28,8 +28,18 @@ The place was a mess.
 
 Papers were strewn across the lab floor. Most housed old calculations -- forgotten algorithms and derivations that Teller had played with as he started his dissertation.
 
-He quite liked seeing the papers covering the ground; they reminded him of the snow white landscapes outside.
+He quite hated seeing the papers covering the ground; they reminded him of the snowy white landscapes outside.
 
-As he checked the nightly machine output, he noticed it again. The tiny spike in data from the measurements on Harar's Core.
+As he checked the nightly machine output, he noticed it again. The tiny spike in data from the measurements on Harar's atmosphere. It was a cryptic data point, so inexplicable that Teller wanted to dismiss it as pure noise.
 
-[To be continued]
+He couldn't. He had checked his experimental setup thousands of times in anticipation of today, tweaking and calibrating each component to gather data.
+
+Teller gave up on proving the point wrong. He started thinking about what it would mean in the context of his research. Running his models on the data point barely worked. It was such a true outlier that several of his code tests failed.
+
+And then he saw it. The data point's output.
+
+Black snow.
+
+That was it. A 3 hour period on Harar where the snow, as black as night, would fall over Harar.
+
+...TBC
