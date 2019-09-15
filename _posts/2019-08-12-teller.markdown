@@ -24,15 +24,13 @@ The gates creaked open, slowly exposing him the to outer courtyard. He was home.
 
 --
 
-The place was a mess.
-
-Papers were strewn across the lab floor. Most housed old calculations -- forgotten algorithms and derivations that Teller had played with as he started his dissertation.
+Papers were strewn across his lab floor. Most housed old calculations -- forgotten algorithms and derivations that Teller had played with as he started his dissertation.
 
 He quite hated seeing the papers covering the ground; they reminded him of the snowy white landscapes outside.
 
-As he checked the nightly machine output, he noticed it again. The tiny spike in data from the measurements on Harar's atmosphere. It was a cryptic data point, so inexplicable that Teller wanted to dismiss it as pure noise.
+As he checked the nightly machine output, he noticed it again. The tiny spike in data from the measurements on Harar's atmosphere. It was a cryptic data point, so inexplicable that Teller wanted to dismiss it as signal noise.
 
-He couldn't. He had checked his experimental setup thousands of times in anticipation of today, tweaking and calibrating each component to gather data.
+He couldn't. He had checked his experimental setup thousands of times in anticipation of today, tweaking and calibrating each component to gather clean data.
 
 Teller gave up on proving the point wrong. He started thinking about what it would mean in the context of his research. Running his models on the data point barely worked. It was such a true outlier that several of his code tests failed.
 
@@ -40,6 +38,26 @@ And then he saw it. The data point's output.
 
 Black snow.
 
-That was it. A 3 hour period on Harar where the snow, as black as night, would fall over Harar.
+A 3 hour period on Harar where the snow, as black as night, would fall over Harar.
 
-...TBC
+Teller chuckled.
+
+His data was nowhere near as disturbing as he thought. Even better; this would be the perfect, lighthearted way of ending his centennial report.
+
+--
+
+"You have outdone yourself, Teller."
+
+Teller's attention moved to the leftmost figure on the panel.
+
+With a delighted tone, the scholar continued. "Despite a limited budget, you've managed to devise and instrument a model for interatmospheric particle transfer. That, is nothing short of amazing."
+
+"Your honor's praise is undeserving," said Teller. "Nothing in this project could have come about had the panel not sponsored my work."
+
+"A-and my food and lodging", he added, after a quick pause.
+
+The panel members chuckled. Teller's body eased.
+
+As he brought his voice back to speak, he felt a significant amount of tension return to his shoulders.
+
+to be continued...
