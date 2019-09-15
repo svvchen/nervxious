@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teller Tale"
+title:  "Black Snow"
 date:   2019-08-12 12:26:58 -0700
 categories: Short
 ---
