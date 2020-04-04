@@ -17,8 +17,8 @@ None more wholehearted or grounded.
 Peeled, roasted, aged  
 became sweeter  
 than the world  
-&nbsp;&nbsp;could  
-&nbsp;&nbsp;&nbsp;&nbsp;tolerate.  
+&nbsp;&nbsp;&nbsp;&nbsp;could  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tolerate.  
 But, with resilience, and punch   
 it could last   
 through generations.  
@@ -30,6 +30,6 @@ from the earth that you absorbed love from
 Nobody seems to understand.   
 
 After years  
-&nbsp;&nbsp;avoiding your love  
+&nbsp;&nbsp;&nbsp;&nbsp;avoiding your love  
 I never  
-&nbsp;&nbsp;want to live without you.  
+&nbsp;&nbsp;&nbsp;&nbsp;want to live without you.  
