@@ -4,6 +4,7 @@ title: Dr!
 date:   2020-04-05 20:26:58 -0700
 categories: highlights
 ---
+![truncated trees in the neighborhood](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/fmc_v2.jpg)
 Imagine a human,  
 tall, slender,  
 feline, high-shouldered,  
