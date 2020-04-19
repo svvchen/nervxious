@@ -4,7 +4,7 @@ title: The neighbors cut down their tree
 date:   2020-04-19 20:26:58 -0700
 categories: highlights
 ---
-![treelove](../assets/tree.jpg)
+<img src="/assets/tree.jpg" alt="">
 
 The neighbors cut down their tree  
 it was obstructing their view.  
