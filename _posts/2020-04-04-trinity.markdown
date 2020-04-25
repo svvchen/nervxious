@@ -2,7 +2,7 @@
 layout: post
 title: Trinity
 date:   2020-04-03 20:26:58 -0700
-categories: highlights
+categories: poems
 ---
 &nbsp;&nbsp;&nbsp;**O**  
 
