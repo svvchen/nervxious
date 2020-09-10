@@ -1,0 +1,50 @@
+---
+layout: post
+title: Be aware of the filter
+date:   2020-09-09 20:26:58 -0700
+categories: highlights work
+---
+
+# Filtering
+
+You'll always start writing with a desire to express yourself.
+
+Once you've gathered your initial thoughts, you'll begin **filtering** your content for an audience: proofreading, revising, removing thoughts, explaining, tweaking, etc.
+
+![filtering diagram](https://github.com/svvchen/nervxious/blob/initial_product_post/assets/images/filter.png)
+
+When done correctly, filtering can help you reach your preferred balance of expressiveness and accessibility in your writing. When done incorrectly, you can limit expression and emotion, turning your work into a blander version of the vibrant idea of what you wanted to communicate.
+
+Understanding the balance of when and how much to filter is essential to producing the content you're after.
+
+## When to filter
+
+Always be cognizant of *when* you're starting to filter.
+
+There are times when your purpose in writing is to inform, grab attention, or appeal to others. Think of workplace emails, marketing copy, project updates, and even text messages. When writing these, you may be filtering before even putting down a first draft.
+
+Other times, your goal is to cut loose from an audience. Think poetry, journaling, creative writing. In these cases, your goal is not necessarily to appeal to an audience. In fact, if you think about an audience too soon, it can cloud your writing, making it a false representation of what you're attempting to express.
+
+## How much to filter
+
+Your writing is an expression of you. Be aware of *how much* you are grooming it for others.
+
+If you begin to think of an audience too much, you risk severing the connection between you and your writing. This can manifest in writing that is thought of as superficial, commercial, and bland. On the other end of the spectrum, filtering too little can result in work that is unpalatable.
+
+Of course, there are different types of filtering that are done that lie within these extremes. Think things like commercial novels, poetry, marketing copy for filtering extensively; modern art and  experimental poetry for filtering very little.
+
+Of course, nothing is wrong with the above. In fact, the amount of filtering in the above is what makes them each unique, and successful. What's important is to be aware of the filter in your own work, especially as you begin expressing yourself.
+
+# Framework
+
+Use this basic framework for determining when/how much **to filter.
+
+💟 **If your writing involves, or prioritizes, expressing yourself:**
+
+- Make space to write before filtering. Let your content take the form of a first, second, third draft, before even thinking about getting it ready for an audience. Of course, feel free to proofread, edit very basically. Your ideas are the important thing to keep intact — they need space to be shaped on the page.
+- Filter less. In expressive writing, it's alright if the audience does not follow. They shouldn't necessarily understand all that you're expressing. Remember: the process of writing journal entries, poetry, creative work, is as much for you as an audience.
+
+📣 **If you are writing to communicate facts, or appeal to an audience:** 
+
+- Start filtering early. You might even filter before your coming up with raw thoughts. Consider marketers and commercial content creators — they are constantly anticipating what an audience wants to see before beginning their work.
+- Filter more. Especially if you need to convince others. Edit, re-write, explain, validate — do things to make your writing extremely clear and easy to follow. You can start with the person you're writing to, and start by putting yourself in their shoes.
