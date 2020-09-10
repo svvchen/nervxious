@@ -13,7 +13,7 @@ Once you've gathered your initial thoughts, you'll begin **filtering** your cont
 
 ![filtering diagram](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/filter.png)
 
-When done correctly, filtering can help you reach your preferred balance of expressiveness and accessibility in your writing. When done incorrectly, you can limit expression and emotion, turning your work into a blander version of the vibrant idea of what you wanted to communicate.
+When done correctly, filtering can help you reach your preferred balance of expressiveness and accessibility in your writing. When done incorrectly, you can limit expression and emotion, turning your work into a blander version of the idea of what you wanted to communicate.
 
 Understanding the balance of when and how much to filter is essential to producing the content you're after.
 
@@ -29,11 +29,11 @@ Other times, your goal is to cut loose from an audience. Think poetry, journalin
 
 Your writing is an expression of you. Be aware of *how much* you are grooming it for others.
 
-If you begin to think of an audience too much, you risk severing the connection between you and your writing. This can manifest in writing that is thought of as superficial, commercial, and bland. On the other end of the spectrum, filtering too little can result in work that is unpalatable.
+If you begin to think of an audience too much, you risk severing the connection between you and your writing. This can manifest in work that's thought of as superficial, commercial, or bland. On the other end of the spectrum, filtering too little can result in work that is unpalatable.
 
 Of course, there are different types of filtering that are done that lie within these extremes. Think things like commercial novels, poetry, marketing copy for filtering extensively; modern art and  experimental poetry for filtering very little.
 
-Of course, nothing is wrong with the above. In fact, the amount of filtering in the above is what makes them each unique, and successful. What's important is to be aware of the filter in your own work, especially as you begin expressing yourself.
+Nothing is wrong with these extremes. In fact, the amount of filtering in these is what makes them each unique, and purposeful. What's important is to be aware of the filter in your own work, especially as you begin writing for an audience.
 
 # Framework
 
@@ -41,10 +41,10 @@ Use this basic framework for determining when/how much to filter.
 
 💟 **If your writing involves, or prioritizes, expressing yourself:**
 
-- Make space to write before filtering. Let your content take the form of a first, second, third draft, before even thinking about getting it ready for an audience. Of course, feel free to proofread, and make basic edits. Your ideas are the important thing to keep intact — they need space to be shaped on the page.
-- Filter less. In expressive writing, it's alright if the audience does not follow exactly. Remember: the process of creating poetry or creative writing is about distilling your experience and thoughts on the page.
+- Make space to write before filtering. Let your content take the form of a first, second, third draft, before even thinking about getting it ready for an audience. Of course, feel free to proofread, and make basic edits. What's important is keeping your expression and ideas intact while filtering.
+- Filter less. In expressive writing, it's alright if the audience does not follow. They shouldn't necessarily understand all that you're expressing. Remember: the process of creating poetry or creative writing is about distilling your experience and thoughts on the page.
 
 📣 **If you are writing to communicate facts, or appeal to an audience:** 
 
-- Start filtering early. You might even filter before your coming up with raw thoughts. Consider marketers and commercial content creators — they are constantly anticipating what an audience wants to see before beginning their work.
-- Filter more. Especially if you need to convince others. Edit, re-write, explain, validate — do things to make your writing extremely clear and easy to follow. You can start with the person you're writing to, and start by putting yourself in their shoes.
+- Start filtering early. You might do so even before your coming up with raw thoughts. Think of marketers and commercial content creators. These people constantly anticipate what an audience wants to see before beginning their work.
+- Filter more. Especially if you need to convince others. Edit, re-write, explain, validate — do things to make your writing extremely clear and easy to follow. Always remember to put yourself in the shoes of your audience.
