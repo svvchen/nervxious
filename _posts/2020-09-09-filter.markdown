@@ -11,7 +11,7 @@ You'll always start writing with a desire to express yourself.
 
 Once you've gathered your initial thoughts, you'll begin **filtering** your content for an audience: proofreading, revising, removing thoughts, explaining, tweaking, etc.
 
-![filtering diagram](https://github.com/svvchen/nervxious/blob/initial_product_post/assets/images/filter.png)
+![filtering diagram](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/filter.png)
 
 When done correctly, filtering can help you reach your preferred balance of expressiveness and accessibility in your writing. When done incorrectly, you can limit expression and emotion, turning your work into a blander version of the vibrant idea of what you wanted to communicate.
 
