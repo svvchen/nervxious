@@ -5,6 +5,6 @@ permalink: /about/
 ---
 As nervous and anxious as I am about exposing my writing, here it is.
 
-Please read some of the things I've! I really appreciate you stopping by.
+Please do read some of the things I've written! I really appreciate you stopping by.
 
-Follow me on [twitter](https://twitter.com/svvchen) for post updates.
+If you like what you see, follow me on [twitter](https://twitter.com/svvchen) for new post updates.
