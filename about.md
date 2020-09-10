@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-I want to become a better writer.
+As nervous and anxious as I am about exposing my writing, here it is.
 
-Nervxious is a way for me to light a fire under my ass by exposing this goal to the public.
+Please read some of the things I've! I really appreciate you stopping by.
 
-Please do read some of the things I write! I appreciate you stopping by.
+Follow me on [twitter](https://twitter.com/svvchen) for post updates.
