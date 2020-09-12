@@ -49,8 +49,9 @@ Use this basic framework for determining when/how much to filter.
 
 # Questions to ask
 
-![homer filtering for maggie](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/writing.jpg)
-Some questions to help you be aware filtering:
+![homer filtering for maggie](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/writing.jpg)  
+  
+🤔 **Some questions to help you be aware filtering:**
 
 - Who am I writing for?
 - Am I filtering too early?
