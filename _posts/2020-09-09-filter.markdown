@@ -46,3 +46,13 @@ Use this basic framework for determining when/how much to filter.
 
 - Start filtering early. You can do so even before your coming up with raw thoughts. Think of marketers and commercial content creators. These people constantly anticipate what an audience wants to see before beginning their work.
 - Filter more. Especially if you need to convince others. Edit, re-write, explain, validate — do things to make your writing extremely clear and easy to follow. Always remember to put yourself in the shoes of your audience.
+
+# Questions to ask
+
+![homer filtering for maggie](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/writing.jpg)
+Some questions to help you be aware filtering:
+
+- Who am I writing for?
+- Am I filtering too early?
+- Am I writing to achieve a purpose?
+- How reflective of my raw thought/emotion do I want this work to be?
