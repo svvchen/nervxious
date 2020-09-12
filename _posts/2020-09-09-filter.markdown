@@ -4,6 +4,8 @@ title: Be aware of the filter
 date:   2020-09-09 20:26:58 -0700
 categories: highlights work
 ---
+From Natalie Goldberg's *Writing Down the Bones*:
+> You need a large field in writing. Don't pull in the reins too quickly. Give yoursellf tremendous space to wander in, to be utterly lost with no name, and then come back and speak.
 
 # Filtering
 
@@ -51,9 +53,10 @@ Use this basic framework for determining when/how much to filter.
 
 ![homer filtering for maggie](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/writing.jpg)  
   
-🤔 **Some questions to help you be aware filtering:**
+🤔 **Some questions to get you started:**
 
 - Who am I writing for?
-- Am I filtering too early?
 - Am I writing to achieve a purpose?
 - How reflective of my raw thought/emotion do I want this work to be?
+
+After thinking through the above, start writing! As you translate your thoughts to text, just be conscious of how filtering can affect personal expression in the content you're creating.
