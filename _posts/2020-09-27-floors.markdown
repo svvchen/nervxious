@@ -4,7 +4,7 @@ title: Clean floors
 date:   2020-09-27 20:26:58 -0700
 categories: highlights poems
 ---
-![floor](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/floor.jpg)
+![floor](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/floor.png)
 
 I never understood as a child  
 what it took to maintain clean floors,  
