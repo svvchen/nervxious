@@ -5,7 +5,7 @@ date:   2020-10-17 20:26:58 -0700
 categories: highlights work
 ---
 
-![uncomfortable gossip](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/gossip.jpg)
+![uncomfortable gossip](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/gossip.png)
 
 Stop complaining about people behind their backs. 
 
