@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paraphrase
+title: Trash talk
 date:   2020-10-17 20:26:58 -0700
 categories: highlights work
 ---
