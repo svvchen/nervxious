@@ -11,9 +11,9 @@ Stop complaining about people behind their backs.
 
 I know — it's tough to stop, especially when people around you do it all the time. But there's no faster way to create a toxic culture, one where people don't feel safe making mistakes.
 
-Here's a rule that has helped me be better at this:
+Here's a rule that has helped me be better at this.
 
-If you think of something negative about a person, treat it as feedback, and tell them. If you aren't brave enough to do that, don't say anything behind their back.🤷
+**If you think of something negative about a person, treat it as feedback, and tell them. If you aren't brave enough to do that, don't say anything behind their back. 🤷**
 
 --
 
