@@ -13,7 +13,7 @@ I know — it's tough to stop, especially when people around you do it all the t
 
 Here's a rule that has helped me be better at this:
 
-If you think of something negative about a person, treat it as feedback, and tell them. If you aren't brave enough to do that, don't say anything behind their back. :man_shrugging: :woman_shrugging:
+If you think of something negative about a person, treat it as feedback, and tell them. If you aren't brave enough to do that, don't say anything behind their back.🤷
 
 --
 
@@ -25,4 +25,4 @@ Don't. You don't know her side of the story. On top of that, you haven't been br
 
 If you still find yourself slipping in a negative comment or two, remember: you are damaging the reputations of your co-workers, without even giving them a chance to improve. It's cruel. Eventually, it'll create a culture where everyone's afraid to mess up, or be themselves.
 
-It all comes back to treating others the way you want to be treated. Try to maximize the humanity within your organization, and hold your co-workers to the same standard.:heart:
+It all comes back to treating others the way you want to be treated. Try to maximize the humanity within your organization, and hold your co-workers to the same standard.❤️
