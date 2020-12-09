@@ -1,4 +1,11 @@
-![simpsons-group-huddle](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/simpsons-all-hands.png)
+---
+layout: post
+title: Collective knowledge
+date:   2020-12-09 20:26:58 -0700
+categories: highlights work
+---
+
+![simpsons-group-huddle](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/simpsons-all-hands.png?style=centerme)
 
 When I was a kid, my friends and I would trade candy after we finished trick-or-treating. We'd do this because each of us would trick-or-treat in a different neighborhood, and as a result, get different types of candy. We didn't all like the same candy though, so we'd trade to get more of what we wanted.
 
