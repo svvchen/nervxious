@@ -17,7 +17,7 @@ we knew shared experiences, even love.
 But pain, pain because of departure, pain  
 that violently split emotion from memory.  
 Now we stare into each other's eyes  
-reminders of the amputated memories.  
+reminders of the amputated past.  
 Each moment, an exercise in control, with shields up  
 guarding us from a combined dose  
 of pain and nostalgia and love.  
