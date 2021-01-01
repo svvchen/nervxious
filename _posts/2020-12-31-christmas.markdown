@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2020 Christmas: ladles, shower water, and anime
-date: 2020-12-31 20:26:58 -0700
+date:   2020-12-31 20:26:58 -0700
 categories: random
 ---
 The end of my 2020 was as spectacular as you'd expect.
