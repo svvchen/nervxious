@@ -1,9 +1,10 @@
 ---
 layout: post
-title: A 2020 Christmas: ladles, shower water, and anime
+title: Ladles, shower water, and anime
 date:   2020-12-31 20:26:58 -0700
 categories: random
 ---
+
 The end of my 2020 was as spectacular as you'd expect.
 
 It's been a special year for me. And I don't mean that in a bad way — it's been a time for me to get to know myself, with mostly positive outcomes.
