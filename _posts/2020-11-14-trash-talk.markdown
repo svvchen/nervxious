@@ -2,7 +2,7 @@
 layout: post
 title: Trash talk
 date:   2020-10-17 20:26:58 -0700
-categories: highlights work
+categories: work
 ---
 
 ![uncomfortable gossip](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/gossip.png)
