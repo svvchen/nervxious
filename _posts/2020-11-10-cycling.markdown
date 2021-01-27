@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ongoing list of cycling questions and observations
-date:   2020-11-10 20:26:58 -0700
+date:   2020-12-15 20:26:58 -0700
 categories: random
 ---
 **Questions**
