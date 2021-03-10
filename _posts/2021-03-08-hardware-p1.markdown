@@ -24,20 +24,30 @@ Because I can barely take care of myself, much less another living thing.
 **Code:**
 Started from [this file](https://github.com/sparkfun/Inventors_Kit_For_Photon_Experiments/blob/master/03-PlantMonitor/Code/02-InternetHouseplantMonitor/InternetHouseplantMonitor.ino) written by Joel Bartlett. Made a couple modifications:
 ```
-int watering_state = false; // Added a temporary state to capture whether the plant needed watering.
+int watering_state = false;// Added a temporary state to capture whether the plant needed watering.
 .
 .
 .
-void loop() // (begin loop)
+void loop() //begin loop
 .
 .
 .
-delay(86400);
-// Ramped up the delay to run moisture checks daily. Prevents me from getting spammed if I don't water the plant.
+delay(86400); //Ramped up the delay to run moisture checks daily. Prevents me from getting spammed if I don't water the plant.
+
+    if(readSoil() < 2000)
+    {
+      state = true;
+    }
+    else
+    {
+      state = false;
+    }
+    //Tweak if/else statements to adjust state according to the readings.
+    //Calibrated to the pothos' preferred moisture level (~2000 on the serial reading).
 .
 .
 .
-// Added an if statement in the loop that would publish an event based on the watering state.
+//Added an if statement in the loop that would publish an event based on the watering state.
     if(watering_state)
     {
         Spark.publish("plantMoistureState", "Dry", 60, PRIVATE);
