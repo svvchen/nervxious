@@ -9,14 +9,44 @@ In part 1, I tweak some code to send me a notification once my plant needs to be
 
 Because I can barely take care of myself, much less another living thing.
 
-**The setup:**
+## The setup
+**Equipment:**
 * The [Sparkfun Soil Moisture Sensor](https://www.sparkfun.com/products/13637?_ga=2.235359937.1768061677.1615260007-2127130474.1613147809), a tiny breakout board with two conductive pads that create variable resistance/signal.
 * The [Sparkfun Photo RedBoard](https://www.sparkfun.com/products/13321?_ga=2.260386509.1768061677.1615260007-2127130474.1613147809), a dev board/microcontroller that's compatible with [Particle's web IDE](https://www.particle.io/developer-tools/).
 * A couple [jumper wires](https://www.sparkfun.com/products/11026?_ga=2.90123739.1768061677.1615260007-2127130474.1613147809), since I got the moisture sensor with screw terminals.
 * My [silver pothos](https://en.wikipedia.org/wiki/Scindapsus_pictus) house plant.
 
-**The circuit:**  
+**Circuit:**  
 * Sensor vcc -> d7 (digital) 
 * Sensor sig -> a2 (analog)
 * Sensor gnd -> gnd
 
+**Code:**
+Started from [this fuke](https://github.com/sparkfun/Inventors_Kit_For_Photon_Experiments/blob/master/03-PlantMonitor/Code/02-InternetHouseplantMonitor/InternetHouseplantMonitor.ino) written by Joel Bartlett. Made a couple modifications:
+
+1. Initialized a temporary state to capture whether the plant needed watering.
+2. Added an if statement in the loop that would publish an event based on the watering state.
+3. Ramped up the delay on the loop to run daily. Prevents me from getting spammed if I don't water the plant (though - may tweak this later, depending on how lazy I am 😅).
+
+_Code adjustments_
+```
+int watering_state = false;
+.
+.
+.
+void loop()
+.
+.
+.
+delay(86400);
+.
+.
+.
+    if(watering_state)
+    {
+        Spark.publish("plantMoistureState", "Dry", 60, PRIVATE);
+        delay(5000);
+    }
+```
+
+## It's alive!
