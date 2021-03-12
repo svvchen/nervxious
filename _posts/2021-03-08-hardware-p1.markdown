@@ -79,4 +79,4 @@ Then, hooking it all up: I switched the board on, flashed the code, and dried of
 
 Huzzah! I'll still need to configure some settings (moisture levels), but it works.
 
-Maybe, just maybe...I'll keep this plant alive. 
+Maybe, just maybe...I'll keep this plant alive. 🌱🤞
