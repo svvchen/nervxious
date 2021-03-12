@@ -72,10 +72,10 @@ Here's the basic readout from my serial port. Low at first, since the sensor is 
 After verifying that the sensor worked, and playing around with moisture settings, I was ready to create my email notification. I did using [If This Than That](https://ifttt.com/home), a platform that allows developers to trigger and monitor events across apps.
 
 Setup was pretty straightforward: create an account, and set up an event trigger.
-![plant event in IFTTT](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/if_then.jpg)
+![plant event in IFTTT](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/if_then_1.jpg)
 
 Then, hooking it all up: I switched the board on, flashed the code, and dried off my sensor...
-![email in inbox reminding me to water plant](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/please_water.jpg)
+![email in inbox reminding me to water plant](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/please_water_1.jpg)
 
 Huzzah! I'll still need to configure some settings (moisture levels), but it works!
 
