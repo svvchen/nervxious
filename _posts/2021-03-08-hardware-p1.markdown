@@ -57,14 +57,26 @@ delay(86400); //Ramped up the delay to run moisture checks daily.
 ```
 ## It's alive!
 
-I plugged my board into my mac, ran a quick scan (` ls /dev/tty.*`) to find the correct serial port, and connected to it using a screen command (`screen /dev/tty.[port_name] 9600`).
+I plugged my board into my mac, ran a scan to find the correct serial port (` ls /dev/tty.*`), and connected to the board using a screen command (`screen /dev/tty.[port_name] 9600`).
 
-The board read some basic values, so I then stuck it into the soil of my silver pothos.
+After verifying that the board read could correctly read some basic values, I stuck it into the soil of my silver pothos.
 
 ![sensor embedded in plant soil](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/sensor_in_plant.jpg)
 
-Readout from serial port: first, with sensor outside soil, then placed in soil.
+Here's the basic readout from my serial port. Low at first, since the sensor is outside the soil; high later on, once placed in the soil.
 
 ![readout from serial port](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/readout.png)
 
+## Putting it to use...
 
+After verifying that the sensor worked, and playing around with moisture settings, I was ready to create my email notification. I did using [If This Than That](https://ifttt.com/home), a platform that allows developers to trigger and monitor events across apps.
+
+Setup was pretty straightforward: create an account, and set up an event. My plant event:
+![readout from serial port](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/if_then.jpg)
+
+Then, hooking it all up: I switched the board on, flashed the code, and dried off my sensor...
+![readout from serial port](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/please_water.jpg)
+
+Huzzah! I'll still need to configure some settings (moisture levels), but it works.
+
+Maybe, just maybe...I'll keep this plant alive. 
