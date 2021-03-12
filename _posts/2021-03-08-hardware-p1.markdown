@@ -32,7 +32,8 @@ void loop() //begin loop
 .
 .
 .
-delay(86400); //Ramped up the delay to run moisture checks daily. Prevents me from getting spammed if I don't water the plant.
+delay(86400); //Ramped up the delay to run moisture checks daily. 
+// Prevents me from getting spammed if I don't water the plant. For testing, set to 10000: 10 secs.
 
     if(readSoil() < 2000)
     {
@@ -55,3 +56,15 @@ delay(86400); //Ramped up the delay to run moisture checks daily. Prevents me fr
     }
 ```
 ## It's alive!
+
+I plugged my board into my mac, ran a quick scan (` ls /dev/tty.*`) to find the correct serial port, and connected to it using a screen command (`screen /dev/tty.[port_name] 9600`).
+
+The board read some basic values, so I then stuck it into the soil of my silver pothos.
+
+![sensor embedded in plant soil](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/sensor_in_plant.jpg)
+
+Readout from serial port: first, with sensor outside soil, then placed in soil.
+
+![readout from serial port](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/readout.png)
+
+
