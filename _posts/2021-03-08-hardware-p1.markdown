@@ -22,7 +22,7 @@ Because I can barely take care of myself, much less another living thing.
 * Sensor gnd -> gnd
 
 **Code:**
-Started from [this file](https://github.com/sparkfun/Inventors_Kit_For_Photon_Experiments/blob/master/03-PlantMonitor/Code/02-InternetHouseplantMonitor/InternetHouseplantMonitor.ino) written by Joel Bartlett. Made a couple modifications:
+Started from [this file](https://github.com/sparkfun/Inventors_Kit_For_Photon_Experiments/blob/master/03-PlantMonitor/Code/02-InternetHouseplantMonitor/InternetHouseplantMonitor.ino) written by Joel Bartlett, and made the following modifications:
 ```
 int watering_state = false;// Added a temporary state to capture whether the plant needed watering.
 .
