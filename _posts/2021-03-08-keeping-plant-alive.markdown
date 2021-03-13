@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hard times call for hardware, part 1
+title: Keeping my plant alive
 date:   2021-3-8 20:26:58 -0700
 categories: random work
 ---
 
-In part 1, I tweak some code to send me a notification once my plant needs to be watered.
+I program a microcontroller to send a notification once my plant needs to be watered.
 
-Because I can barely take care of myself, much less another living thing.
+...Because I can barely take care of myself, much less another living thing.
 
 ## The setup
 **Equipment:**
