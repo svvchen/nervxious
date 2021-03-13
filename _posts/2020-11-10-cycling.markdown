@@ -2,7 +2,7 @@
 layout: post
 title: (Ongoing) Cycling questions and observations
 date:   2020-12-15 20:26:58 -0700
-categories: random
+categories: fun
 ---
 **Questions**
 

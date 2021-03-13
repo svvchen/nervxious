@@ -2,7 +2,7 @@
 layout: post
 title: Ladles, shower water, and anime
 date:   2020-12-31 20:26:58 -0700
-categories: random
+categories: fun
 ---
 
 The end of my 2020 was as spectacular as you'd expect.
