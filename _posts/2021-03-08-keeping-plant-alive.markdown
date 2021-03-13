@@ -2,7 +2,7 @@
 layout: post
 title: Keeping my plant alive
 date:   2021-3-8 20:26:58 -0700
-categories: random work highlights
+categories: fun work highlights
 ---
 
 I program a microcontroller to send a notification once my plant needs to be watered.
