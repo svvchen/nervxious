@@ -81,6 +81,6 @@ It was such a fitting end to the year.
 
 There was a moment though, right after I finished emptying my shower basin, where I felt some inkling of happiness. I realized that I was more level-headed than I'd expected. There was nothing I could do about the situation, so I was letting go of the anxiety and negative emotions associated with it. And that was something 2019 me wouldn't have been able to do.
 
-Slowly, I started enjoying my Christmas. I called my parents, ordered some popcorn chicken, and binge watched some fate/zero. I had a couple drink (ok, maybe 6-10 — I don't remember), and played/sang-along to some Mariah Carey Christmas music.
+Slowly, I started enjoying my Christmas. I called my parents, ordered some popcorn chicken, and binge watched some fate/zero. Once the anime got sad, I had a few drinks, played/sang-along to some Mariah Carey Christmas music, and called it a night.
 
 And as I turned off my bedroom lights, and closed my eyes, I couldn't help but feel so content with those last hours. I fell asleep immediately, dreaming of vaccines, clear pipes, and a nice, hot shower.🚿
