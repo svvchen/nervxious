@@ -43,7 +43,7 @@ The plumber that came by was a good half foot taller than me, with a thick, russ
 
 After a half hour of work, he gave up.
 
-The plumber explained that there was a clog in the shower line, meaning that when I showered, none of my water would drain. He wasn't able to snake the pipe and unclog it, and thought it was a more serious problem in the pipe itself.
+The plumber explained that there was a serious clog in the shower line, meaning that when I showered, none of my water would drain.
 
 ![plumbing system in my unit](https://raw.githubusercontent.com/svvchen/nervxious/gh-pages/assets/images/plumbing.png)
 
@@ -53,23 +53,21 @@ What made it truly awful, though, was that all units above me shared this common
 
 I was lucky enough to learn this the hard way. As the plumber was on site, my upstairs neighbor showered. Her warm, shampoo scented water started filling my shower basin. I quickly realized that my floor was about to flood again, and rushed upstairs to interrupt my neighbors shower.
 
-**Our rough conversation**
+**Our conversation:**
 
 Me: Merry Christmas! Hey listen, I'm getting your shower runoff because of a clogged pipe. Could you...not shower for a bit?  
 Confused, slightly pissed upstairs tenant: Um, sure. When will it be resolved?  
-Me: Oh, erm. I'm not sure when it'll be resolved. But uh, nice to meet you! Your shampoo smells great?
+Me: Oh, erm. I'm not sure when it'll be resolved. But uh, nice to meet you! Your shampoo smells great though?
 
-After frightening her, I ran up to the third floor, where I had the same conversation with the tenant up there.
-
-I finally returned to my place to reassess what to do.
+After solidly scaring her, I ran up to the third floor, where I had the same conversation with the tenant up there, before finally returning to my place to assess the situation.
 
 ## 🙂 Part 3
 
-First up: property management. Unfortunately, they said they couldn't help on Christmas, but could send a dedicated plumbing team tomorrow to check on the situation.
+First up: property management. Unfortunately, they said they couldn't help on Christmas, but could send a dedicated plumbing team the next day to check on the situation.
 
 Hating my life, I slowly mopped up all the water on my bathroom floor. Then, terrified that someone would shower and re-flood my bathroom, I started transferring water from my shower basin into my toilet.
 
-Using a ladle, I scooped water into a pot, and dumped the contents in the toilet once the pot was full.
+Using a ladle, I scooped water into a stew pot, and dumped the contents into the toilet once the pot was full.
 
 .
 
@@ -77,12 +75,12 @@ Using a ladle, I scooped water into a pot, and dumped the contents in the toilet
 
 .
 
-I couldn't help but think how ridiculous the situation was. Using a ladle and a pot, I spent an hour transferring dirty shower water to my toilet on Christmas. My plans were cancelled because of the plumbing appointment, and my shower drain was still not fixed.
+This was the most ridiculous, miserable Christmas I've ever had. I was transferring my neighbor's runoff shower water from the basin to the toilet, over and over again, with the occasional flush once the toilet was full.
 
-It was such a fitting end to this year.
+It was such a fitting end to the year.
 
-There was a moment though, right around when I finished emptying my shower basin, where I was happy. I realized that I was more level-headed than I'd expected. There was nothing I could do about the situation, and I could let go of some of the anxiety / negative emotions surrounding it. And that was something I didn't understand last year, having not gone through the trauma of 2020.
+There was a moment though, right after I finished emptying my shower basin, where I felt some inkling of happiness. I realized that I was more level-headed than I'd expected. There was nothing I could do about the situation, so I was letting go of the anxiety and negative emotions associated with it. And that was something 2019 me wouldn't have been able to do.
 
-Slowly, I started re-enjoying my Christmas. I called my parents, ordered some popcorn chicken, and binge watched some fate/zero. I had a drink (ok — maybe 3), and played some Christmas music.
+Slowly, I started enjoying my Christmas. I called my parents, ordered some popcorn chicken, and binge watched some fate/zero. I had a couple drink (ok, maybe 6-10 — I don't remember), and played/sang-along to some Mariah Carey Christmas music.
 
 And as I turned off my bedroom lights, and closed my eyes, I couldn't help but feel so content with those last hours. I fell asleep immediately, dreaming of vaccines, clear pipes, and a nice, hot shower.🚿
