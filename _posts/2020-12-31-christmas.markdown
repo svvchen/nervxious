@@ -75,7 +75,7 @@ Using a ladle, I scooped water into a stew pot, and dumped the contents into the
 
 .
 
-This was the most ridiculous, miserable Christmas I've ever had. I was transferring my neighbor's runoff shower water from the basin to the toilet, over and over again, with the occasional flush once the toilet was full.
+This was the most ridiculous, miserable Christmas I've ever had. I was transferring my neighbor's runoff shower water from the shower basin to the toilet, over and over again, with the occasional flush once the toilet was full.
 
 It was such a fitting end to the year.
 
